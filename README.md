@@ -46,7 +46,7 @@
 ## Визуализации (EDA)
 
 - Распределение координат pickup/dropoff.
-- Распределение поездок по времени (час, день недели).
+- Распределение поездок по времени.
 - Выбор оптимального `k` для KMeans по инерции (elbow method).
 
 <img width="1641" height="779" alt="image" src="https://github.com/user-attachments/assets/7cf3afee-3763-431a-a2ac-42aea7f242d6" />
